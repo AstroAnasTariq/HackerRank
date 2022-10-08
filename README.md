@@ -1,5 +1,5 @@
-# 30 DAYS OF CODE
-| Day | Challenge  | Solution |
+# GENERAL PROGRAMMING
+| Subdomain | Challenge  | Solution |
 | ------------- | ------------- | ------------- |
-| 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/AstroAnasTariq/HackerRank/blob/main/src/main/kotlin/p1_Solve_Me_First/Solution1.kt) |
-| 2 | Content Cell  | Content Cell  |
+| Basic Programming | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/AstroAnasTariq/HackerRank/blob/main/src/main/kotlin/p1_Solve_Me_First/Solution1.kt) |
+| Basic Programming | Content Cell  | Content Cell  |
