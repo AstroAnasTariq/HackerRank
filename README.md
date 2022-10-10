@@ -1,6 +1,7 @@
 <p align="center">
 &nbsp;
   <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png">
+&nbsp;
 </p>
 
 # GENERAL PROGRAMMING
