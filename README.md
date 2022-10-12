@@ -1,7 +1,8 @@
 <p align="center">
 &nbsp;
-  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg#gh-dark-mode-only">
-  <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png#gh-light-mode-only">
+  <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" src-dark="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
+
+[//]: # (  <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png">)
 &nbsp;
 </p>
 
