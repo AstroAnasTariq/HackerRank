@@ -1,6 +1,12 @@
 <p align="center">
 &nbsp;
-  <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" src-dark="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png">
+  </picture>
+
+[//]: # (    <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" src-dark="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg">)
 
 [//]: # (  <img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png">)
 &nbsp;
